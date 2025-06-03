@@ -1,8 +1,6 @@
 # 💫 About Me:
 👤 About Me<br>Staff Automation Engineer | Cypress, Selenium, Playwright, Appium<br>🚀 Passionate about building scalable automation frameworks and improving software quality<br>🔭 I’m currently working on<br>An advanced Playwright and Cypress demo framework, plus an enterprise-level microservice API–only project to showcase scalable, robust backend testing.<br>👯 I’m looking to collaborate on<br>Test automation frameworks, TestOps pipelines, CI/CD integration, innovative quality solutions, and exploring how AI can elevate testing strategies.<br>🌱 I’m currently learning<br>AI-assisted testing, exploring how AI can improve test case design, automation creation, and maintenance.<br>⚡ Fun fact <br>I love turning messy, slow pipelines into sleek, scalable systems — and I’m excited about how AI can reshape the future of software testing.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidkhan4357)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abidkhan4357/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abidkhan4357@gmail.com) 
 
